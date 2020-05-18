@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#000"
+    android:padding="8dp">
+
+    <ScrollView
+        android:id="@+id/scrollView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:id="@+id/textView1o"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="One level"
+                android:textSize="24sp"
+                android:textColor="#fff"/>
+            <TextView
+                android:id="@+id/textView2o"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=" "
+                android:textSize="24sp"
+                android:textColor="#777"/>
+            <ImageView
+                android:id="@+id/onePlane3o"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/one_plane"
+                />
+            <TextView
+                android:id="@+id/textView4o"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=""
+                android:textSize="24sp"
+                android:textColor="#fff"/>
+
+            <TextView
+                android:id="@+id/textView5o"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Chapter test5"
+                android:textSize="24sp"
+                android:textColor="#fff"/>
+            <TextView
+                android:id="@+id/textView6o"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Chapter test6"
+                android:textSize="24sp"
+                android:textColor="#fff"/>
+            <TextView
+                android:id="@+id/textView7o"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Chapter test7"
+                android:textSize="24sp"
+                android:textColor="#777"/>
+            <TextView
+                android:id="@+id/textView8o"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Chapter test8"
+                android:textSize="24sp"
+                android:textColor="#fff"/>
+            <TextView
+                android:id="@+id/textView9o"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Chapter test9"
+                android:textSize="24sp"
+                android:textColor="#fff"/>
+            <TextView
+                android:id="@+id/textView10o"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Chapter test10"
+                android:textSize="24sp"
+                android:textColor="#fff"/>
+            <TextView
+                android:id="@+id/textView11o"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Chapter test11"
+                android:textSize="24sp"
+                android:textColor="#fff"/>
+            <TextView
+                android:id="@+id/textView12o"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Chapter test12"
+                android:textSize="24sp"
+                android:textColor="#777"/>
+            <TextView
+                android:id="@+id/textView13o"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Chapter test13"
+                android:textSize="24sp"
+                android:textColor="#fff"/>
+            <TextView
+                android:id="@+id/textView14o"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Chapter test14"
+                android:textSize="24sp"
+                android:textColor="#fff"/>
+            <TextView
+                android:id="@+id/textView15o"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Chapter test15"
+                android:textSize="24sp"
+                android:textColor="#fff"/>
+            <TextView
+                android:id="@+id/textView16o"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Chapter test16"
+                android:textSize="24sp"
+                android:textColor="#fff"/>
+            <TextView
+                android:id="@+id/textView17o"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Chapter test17"
+                android:textSize="24sp"
+                android:textColor="#fff"/>
+            <TextView
+                android:id="@+id/textView18o"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Chapter test18"
+                android:textSize="24sp"
+                android:textColor="#777"/>
+            <TextView
+                android:id="@+id/textView19o"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Chapter test19"
+                android:textSize="24sp"
+                android:textColor="#fff"/>
+            <TextView
+                android:id="@+id/textView20o"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Chapter test20"
+                android:textSize="24sp"
+                android:textColor="#fff"/>
+            <TextView
+                android:id="@+id/textView21o"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Chapter test21"
+                android:textSize="24sp"
+                android:textColor="#fff"/>
+            <TextView
+                android:id="@+id/textView22o"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Chapter test22"
+                android:textSize="24sp"
+                android:textColor="#fff"/>
+            <TextView
+                android:id="@+id/textView23o"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Chapter test23"
+                android:textSize="24sp"
+                android:textColor="#fff"/>
+            <TextView
+                android:id="@+id/textView24o"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Chapter test24"
+                android:textSize="24sp"
+                android:textColor="#777"/>
+            <TextView
+                android:id="@+id/textView25o"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Chapter test25"
+                android:textSize="24sp"
+                android:textColor="#777"/>
+            <TextView
+                android:id="@+id/next_btn_one"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="6"
+                android:gravity="center"
+                android:background="#010111"
+                android:textColor="#BFA2B7E0"
+                android:text="Next"
+                android:textStyle="bold"
+                android:textSize="55sp"/>
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
